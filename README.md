@@ -1,3 +1,6 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
+
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
